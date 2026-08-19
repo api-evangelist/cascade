@@ -32,7 +32,7 @@ x-status: defunct
 x-status-note: 'www.cascade.io returned HTTP 200 on 2026-07-18 serving a "What Cascade Did" shutdown
   retrospective; company wound down in 2023 with no API/developer surface. Enrichment yielded no
   provider artifacts.'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-18'
 tags:
